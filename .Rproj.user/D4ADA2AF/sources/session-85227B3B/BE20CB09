@@ -1,0 +1,26 @@
+{
+    "id": "BE20CB09",
+    "path": "~/projects/pkgs/hyperion/R/heatmap.R",
+    "project_path": "R/heatmap.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1668051107359.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,2",
+        "scrollLine": "12"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1668051502,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1668051502668,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,26 @@
+{
+    "id": "760EDE74",
+    "path": "~/projects/pkgs/hyperion/R/steinbock.R",
+    "project_path": "R/steinbock.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1668051528476.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,79",
+        "scrollLine": "11"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1668051570,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1668051570560,
+    "read_only": false,
+    "read_only_alternatives": []
+}
